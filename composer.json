@@ -1,6 +1,6 @@
 {
-    "name": "dxpr/dxpr-marketing-cms-project",
-    "description": "Project template for DXPR Marketing CMS demo site",
+    "name": "dxpr/dxpr-cms-project",
+    "description": "Project template for DXPR CMS demo site",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "homepage": "https://www.drupal.org/project/drupal",
@@ -25,7 +25,7 @@
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
-        "dxpr/dxpr_marketing_cms": "^10.3.x-dev"
+        "dxpr/dxpr_cms": "^10.3.x-dev"
     },
     "require-dev": {
         "drush/drush": "^12"
